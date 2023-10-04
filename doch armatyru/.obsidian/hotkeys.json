@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:replace-in-file-templater": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ]
+}

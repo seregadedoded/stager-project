@@ -1,0 +1,14 @@
+#дневник [[Места]], {{time}}
+
+# Вчера
+
+# Сегодня
+
+# Завтра
+
+# Заметки
+```dataview
+LIST without id dateformat(date(file.ctime),"HH:mm") + " " + file.link from "/" and -#дневник 
+where file.cday = this.file.day
+SORT file.ctime ASC
+```
