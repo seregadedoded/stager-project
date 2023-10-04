@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Вики/В Теория для всех систем.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "161e79b35203e15a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "п dreaming subject.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00d4dc8a5d2df33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "п Другой подход к изменениям в жизни.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "п dreaming subject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "п dreaming subject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "п dreaming subject.md"
               }
             }
           }
@@ -149,36 +174,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99d2b228eb605f8a",
+  "active": "161e79b35203e15a",
   "lastOpenFiles": [
-    "п dreaming subject.md",
-    "п Практический способ изменить свою жизнь.md",
-    "Принципы жизни.md",
-    "Untitled.md",
-    "п Jedi Master.md",
     "п Другой подход к изменениям в жизни.md",
-    "Home.md",
-    "Untitled 1.md",
-    "з упражнения для осанки.md",
-    "шаблоны/00date.md",
-    "Вики/Здоровье.md",
-    "Вики/Творчество.md",
-    "Вики/Социализация.md",
-    "Вики/Самодисциплина.md",
-    "Вики/Психология.md",
-    "Вики/Продуктивность.md",
-    "Вики/Принципы обучения.md",
-    "Вики/Питание.md",
-    "Вики/Отношения.md",
-    "Вики/Интеллект.md",
-    "Вики",
-    "шаблоны/wiki green.md",
-    "шаблоны/today.md",
-    "шаблоны/note.md",
-    "шаблоны/material.md",
-    "шаблоны/20.md",
-    "шаблоны",
+    "Вики/В Теория для всех систем.md",
+    "Вики/В механизмы работы мозга (гормоны).md",
+    "Вики/В методики и практики самодисциплины.md",
+    "п dreaming subject.md",
+    "Pasted image 20230920210407.png",
+    "Ujgyj.md",
     "Pasted image 20230920210401.png",
-    "Pasted image 20230920210407.png"
+    "п2 Источники.md",
+    "п Jedi Master.md",
+    "п Практический способ изменить свою жизнь.md",
+    "шаблоны/шаблон дневника.md",
+    "з упражнения для осанки.md",
+    "шаблоны/material.md",
+    "шаблоны/note.md",
+    "шаблоны/wiki green.md",
+    "шаблоны/00date.md",
+    "Системное/Home.md",
+    "Системное/dataveiw шаблоны.md",
+    "дневник/2023-10-04.md",
+    "Вики/B информационное поле.md",
+    "Принципы жизни.md",
+    "Я.md",
+    "xnj nj.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "дневник",
+    "2023-10-04.md",
+    "Системное",
+    "Вики",
+    "шаблоны"
   ]
 }
