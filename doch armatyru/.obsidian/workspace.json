@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "п Jedi Master.md",
+                "file": "п2 Источники.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "п Jedi Master.md",
+                "file": "п2 Источники.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "п Jedi Master.md",
+                "file": "п2 Источники.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "п Jedi Master.md"
+                "file": "п2 Источники.md"
               }
             }
           }
@@ -149,12 +149,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28fa9893789fbd3f",
+  "active": "1b652b5a9e5e173a",
   "lastOpenFiles": [
-    "п dreaming subject.md",
-    "п Jedi Master.md",
-    "Системное/dataveiw шаблоны.md",
     "Системное/Home.md",
+    "Системное/dataveiw шаблоны.md",
+    "п Jedi Master.md",
+    "п dreaming subject.md",
     "Вики/B информационное поле.md",
     "Вики/В Теория для всех систем.md",
     "Вики/В механизмы работы мозга (гормоны).md",
