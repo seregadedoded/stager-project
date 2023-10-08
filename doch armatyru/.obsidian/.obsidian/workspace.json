@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "a2e3b4d8ee6b375b",
+    "id": "bdea5e2d20932e7d",
     "type": "split",
     "children": [
       {
-        "id": "ac237796baff1292",
+        "id": "df24dd1425e48618",
         "type": "tabs",
         "children": [
           {
-            "id": "82aaadba846c694a",
+            "id": "a965069df8cecd9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Курс/1. Что такое самодисциплина и зачем она нужна.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "34811790dca0816a",
+    "id": "a93a4a653f4cdf4c",
     "type": "split",
     "children": [
       {
-        "id": "98a0ddf4479db27f",
+        "id": "609802462609a966",
         "type": "tabs",
         "children": [
           {
-            "id": "149c0bb9598955dc",
+            "id": "fcb66311f7ab8d09",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "de8145de0667bc12",
+            "id": "428f3f700db3b9ed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "72222b6926b5275c",
+            "id": "eeccda195fb1c102",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "0fc796e1ad0ee660",
+    "id": "32e80f999a70cf1f",
     "type": "split",
     "children": [
       {
-        "id": "2b7f981bf8986858",
+        "id": "a8c6ac5aac2305cb",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd6e8936fe205df",
+            "id": "11549c5e02e1ea85",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Курс/1. Что такое самодисциплина и зачем она нужна.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "e0010ba6fbd5e6d1",
+            "id": "f749a638a278f5f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Курс/1. Что такое самодисциплина и зачем она нужна.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b5a4389ff023355d",
+            "id": "b6aa24ab0d88cda6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "31abf42a0d605ea4",
+            "id": "f1a2ce04984722a8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Курс/1. Что такое самодисциплина и зачем она нужна.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,9 +130,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -149,8 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82aaadba846c694a",
-  "lastOpenFiles": [
-    "Системное/Home.md"
-  ]
+  "active": "a965069df8cecd9f",
+  "lastOpenFiles": []
 }
