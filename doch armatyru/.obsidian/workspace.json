@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac237796baff1292",
+        "id": "208ea2bb36406e5d",
         "type": "tabs",
         "children": [
           {
-            "id": "82aaadba846c694a",
+            "id": "5883762f372dd5d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Курс/1. Что такое самодисциплина и зачем она нужна.md",
+                "file": "Системное/Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Курс/1. Что такое самодисциплина и зачем она нужна.md",
+                "file": "Системное/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Курс/1. Что такое самодисциплина и зачем она нужна.md",
+                "file": "Системное/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Курс/1. Что такое самодисциплина и зачем она нужна.md"
+                "file": "Системное/Home.md"
               }
             }
           }
@@ -149,8 +149,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82aaadba846c694a",
+  "active": "5883762f372dd5d2",
   "lastOpenFiles": [
-    "Системное/Home.md"
+    "Pasted image 20230920210407.png",
+    "з скачивай материалы для офлайн использования.md",
+    "Pasted image 20230920210401.png",
+    "п2 Источники.md",
+    "п Jedi Master.md",
+    "п Практический способ изменить свою жизнь.md",
+    "п Другой подход к изменениям в жизни.md",
+    "з уборка.md",
+    "з почему я скатываюсь в дезорганизованное состояние.md",
+    "з очищение цифрового пространства.md",
+    "з марафон по концентрации.md",
+    "Вики/B информационное поле.md",
+    "Вики/В Теория для всех систем.md",
+    "Вики/В механизмы работы мозга (гормоны).md",
+    "Вики/В методики и практики самодисциплины.md",
+    "Системное/Home.md",
+    "п dreaming subject.md"
   ]
 }
