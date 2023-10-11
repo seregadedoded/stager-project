@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "208ea2bb36406e5d",
+        "id": "542803d10ed77bef",
         "type": "tabs",
         "children": [
           {
-            "id": "5883762f372dd5d2",
+            "id": "393fcb37fa2d3263",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Системное/Home.md",
+                "file": "п dreaming subject.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76b984941588225c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "п Jedi Master.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Системное/Home.md",
+                "file": "п Jedi Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Системное/Home.md",
+                "file": "п Jedi Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Системное/Home.md"
+                "file": "п Jedi Master.md"
               }
             }
           }
@@ -149,24 +162,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5883762f372dd5d2",
+  "active": "76b984941588225c",
   "lastOpenFiles": [
+    "Системное/Home.md",
+    "п dreaming subject.md",
+    "п Практический способ изменить свою жизнь.md",
+    "Вики/В механизмы работы мозга (гормоны).md",
+    "Вики/В методики и практики самодисциплины.md",
+    "п Другой подход к изменениям в жизни.md",
+    "з уборка.md",
+    "з очищение цифрового пространства.md",
+    "з марафон по концентрации.md",
+    "з как избавиться от лени.md",
+    "Вики/B информационное поле.md",
+    "Вики/В Теория для всех систем.md",
+    "Курс/12. Подводим итоги и составляем инструкцию.md",
+    "Курс/9. Как работать со своей головой.md",
+    "Курс/4. Перезагрузка дофаминовой системы.md",
+    "Курс/6. Дрессируем себя с помощью дофамина.md",
+    "Курс/2. От чего зависит самодисциплина.md",
+    "Курс/1. Что такое самодисциплина и зачем она нужна.md",
     "Pasted image 20230920210407.png",
     "з скачивай материалы для офлайн использования.md",
     "Pasted image 20230920210401.png",
     "п2 Источники.md",
     "п Jedi Master.md",
-    "п Практический способ изменить свою жизнь.md",
-    "п Другой подход к изменениям в жизни.md",
-    "з уборка.md",
-    "з почему я скатываюсь в дезорганизованное состояние.md",
-    "з очищение цифрового пространства.md",
-    "з марафон по концентрации.md",
-    "Вики/B информационное поле.md",
-    "Вики/В Теория для всех систем.md",
-    "Вики/В механизмы работы мозга (гормоны).md",
-    "Вики/В методики и практики самодисциплины.md",
-    "Системное/Home.md",
-    "п dreaming subject.md"
+    "з почему я скатываюсь в дезорганизованное состояние.md"
   ]
 }
