@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34485b56342722af",
+        "id": "af48998196325da1",
         "type": "tabs",
         "children": [
           {
-            "id": "63b8f46173e59550",
+            "id": "b4b1a4b0b41fadf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "режим дня.md",
+                "file": "п Jedi Master.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0fc796e1ad0ee660",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "режим дня.md",
+                "file": "п Jedi Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "режим дня.md",
+                "file": "п Jedi Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "режим дня.md"
+                "file": "п Jedi Master.md"
               }
             }
           }
@@ -150,31 +149,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63b8f46173e59550",
+  "active": "b4b1a4b0b41fadf8",
   "lastOpenFiles": [
+    "Системное/Home.md",
+    "з очищение цифрового пространства.md",
+    "п dreaming subject.md",
+    "режим дня.md",
+    "Вики/В методики и практики самодисциплины.md",
+    "п Jedi Master.md",
+    "Курс/1. Что такое самодисциплина и зачем она нужна.md",
     "з активное припоминание (active recall) и Корнелла.md",
     "f2234322-750b-449f-9602-9eaf4c8d9108.gif",
     "Pasted image 20231019225705.png",
     "Pasted image 20231019225640.png",
     "Pasted image 20231019225153.png",
-    "Системное/Home.md",
     "Untitled.md",
     "Правила и привычки.md",
-    "п dreaming subject.md",
     "з марафон по концентрации.md",
     "з откаты и привалы.md",
-    "режим дня.md",
     "конечная точка.md",
     "з запланированное гедонистическое отклонение.md",
-    "Курс/1. Что такое самодисциплина и зачем она нужна.md",
     "з уборка.md",
     "з почему я скатываюсь в дезорганизованное состояние.md",
     "п Другой подход к изменениям в жизни.md",
     "п Практический способ изменить свою жизнь.md",
-    "п Jedi Master.md",
-    "з очищение цифрового пространства.md",
     "Вики/B информационное поле.md",
-    "Вики/В методики и практики самодисциплины.md",
     "Вики/В механизмы работы мозга (гормоны).md",
     "Untitled 1.md",
     "Обучение 2.0/2. Учеба как проект/2.3. Матрица оценки стратегий. Чек-лист мониторинга прогресса..md",
